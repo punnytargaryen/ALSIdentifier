@@ -21,9 +21,8 @@ code: https://github.com/npatta01/web-deep-learning-classifier
 
 sampleImages:
   - name: A
-    url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg
-  - name: del
-    url: https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg
-  - name: space
-    url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Waffles_with_Strawberries.jpg
-
+    url: https://www.lifeprint.com/asl101/signjpegs/a/a.jpg
+  - name: X
+    url: https://www.lifeprint.com/asl101/signjpegs/x/x2.jpg
+  - name: O
+    url: https://www.lifeprint.com/asl101/signjpegs/o/o1.jpg
