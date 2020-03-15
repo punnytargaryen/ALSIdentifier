@@ -22,7 +22,7 @@ code: https://github.com/npatta01/web-deep-learning-classifier
 sampleImages:
   - name: A
     url: https://www.lifeprint.com/asl101/signjpegs/a/a.jpg
-  - name: X
-    url: https://www.lifeprint.com/asl101/signjpegs/x/x2.jpg
+  - name: S
+    url: https://www.lifeprint.com/asl101/signjpegs/s/s.jpg
   - name: O
     url: https://www.lifeprint.com/asl101/signjpegs/o/o1.jpg
